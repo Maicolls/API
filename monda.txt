@@ -1,0 +1,5 @@
+npm install @babel/core @babel/node @babel/preset-env body-parser cors express mysql2
+
+control de linea de comando babel-cli
+npm install @babel/core @babel/node @babel/preset-env body-parser cors express mysql2
+npm install --save-dev @babel/cli @babel/register chai chai-http fake nodemon
